@@ -1,0 +1,76 @@
+#container {
+  width: 850px;
+  padding-left: 300px;
+  /* background-color: rgb(209, 188, 153);*/
+}
+#header {
+  position: relative;
+
+  height: 20px;
+  background-position: center;
+  background-color: yellow;
+}
+#forms {
+  padding-left: 0px;
+  background: url(Annotation 2020-06-04 115126.png);
+}
+#first-line-label {
+  display: flex;
+  padding-left: 0px;
+  /*justify-content: space-around;*/
+}
+#credit {
+  padding-right: 100px;
+}
+#num {
+  padding-right: 180px;
+}
+#pad {
+  padding-left: 26px;
+}
+#content-of-first-line-label {
+  display: flex;
+}
+#credit-card {
+  padding-right: 100px;
+}
+#number {
+  padding-right: 70px;
+}
+.one {
+  width: 100px;
+}
+.two {
+  width: 100px;
+}
+#second-line-label {
+  display: flex;
+}
+#fist-name {
+  padding-right: 250px;
+}
+#content-of-second-line-label {
+  display: flex;
+}
+#fn {
+  padding-right: 150px;
+}
+fieldset {
+  overflow: hidden;
+  padding-right: 50px;
+}
+#f1 {
+  width: 700px;
+}
+#within {
+  float: left;
+  padding-right: 180px;
+}
+#outside {
+  float: right;
+  padding-left: 60px;
+  height: 110px;
+}
+.clr {
+  clear: both;
+}
